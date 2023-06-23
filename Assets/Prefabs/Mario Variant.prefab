@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1422518376009968597
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 1479200655452982, guid: fffaa3ea6a2c8a842856481e1b5ee6d6, type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000,
+        type: 0}
+    - target: {fileID: 1479200655452982, guid: fffaa3ea6a2c8a842856481e1b5ee6d6, type: 3}
+      propertyPath: m_Name
+      value: Mario Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 4854151510741782, guid: fffaa3ea6a2c8a842856481e1b5ee6d6, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4854151510741782, guid: fffaa3ea6a2c8a842856481e1b5ee6d6, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.55
+      objectReference: {fileID: 0}
+    - target: {fileID: 4854151510741782, guid: fffaa3ea6a2c8a842856481e1b5ee6d6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4854151510741782, guid: fffaa3ea6a2c8a842856481e1b5ee6d6, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4854151510741782, guid: fffaa3ea6a2c8a842856481e1b5ee6d6, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4854151510741782, guid: fffaa3ea6a2c8a842856481e1b5ee6d6, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4854151510741782, guid: fffaa3ea6a2c8a842856481e1b5ee6d6, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4854151510741782, guid: fffaa3ea6a2c8a842856481e1b5ee6d6, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 50744913261282614, guid: fffaa3ea6a2c8a842856481e1b5ee6d6,
+        type: 3}
+      propertyPath: m_AngularDrag
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 50744913261282614, guid: fffaa3ea6a2c8a842856481e1b5ee6d6,
+        type: 3}
+      propertyPath: m_Constraints
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 50744913261282614, guid: fffaa3ea6a2c8a842856481e1b5ee6d6,
+        type: 3}
+      propertyPath: m_GravityScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114782243601020030, guid: fffaa3ea6a2c8a842856481e1b5ee6d6,
+        type: 3}
+      propertyPath: moveSpeed
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 114782243601020030, guid: fffaa3ea6a2c8a842856481e1b5ee6d6,
+        type: 3}
+      propertyPath: climbSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 0eb6ae44896132f46a1cb8d1664da99a,
+        type: 3}
+    - target: {fileID: 114782243601020030, guid: fffaa3ea6a2c8a842856481e1b5ee6d6,
+        type: 3}
+      propertyPath: jumpStrength
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 114782243601020030, guid: fffaa3ea6a2c8a842856481e1b5ee6d6,
+        type: 3}
+      propertyPath: runSprites.Array.data[3]
+      value: 
+      objectReference: {fileID: 21300000, guid: c83817e86c57d3246ad74345015e0967,
+        type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fffaa3ea6a2c8a842856481e1b5ee6d6, type: 3}
